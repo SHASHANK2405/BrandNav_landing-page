@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "./Navbar";
 import Image from "next/image";
 import { LuCreditCard } from "react-icons/lu";
-import { FaStar, FaStarHalfAlt, FaRegStar } from "react-icons/fa";
+import { FaStar, FaStarHalfAlt } from "react-icons/fa";
 
 const HeroSection = () => {
   return (
