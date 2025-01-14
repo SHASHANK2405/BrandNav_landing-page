@@ -1,3 +1,4 @@
+import "@/styles/globals.css"; // No changes needed
 import Head from "next/head";
 import HeroSection from "@/components/HeroSection";
 import Image from "next/image";

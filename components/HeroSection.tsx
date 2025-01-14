@@ -46,7 +46,7 @@ const HeroSection = () => {
           </div>
         </div>
         <div className="w-[1180px] h-[300px] md:flex hidden">
-          <Image
+          <img
             src="/assets/tools.png"
             alt="tools"
             width={1180} // Set width to 1060px
