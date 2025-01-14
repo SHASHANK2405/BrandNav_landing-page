@@ -1,6 +1,5 @@
 import React from "react";
 import AttributeBox from "./AttributeBox";
-import Image from "next/image";
 
 const AttributeSection = () => {
   return (
